@@ -20,7 +20,7 @@
 
 ## License
 
-Copyright (c) 2011-2017 Ruby China
+Copyright (c) 2020 [IndieHackers.net](https://www.indiehackers.net/)
 
 Released under the MIT license:
 
